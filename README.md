@@ -1,5 +1,5 @@
 # counterRedux
-## counter + React
+## counter + Redux
 # npm run dev
 ##
 
